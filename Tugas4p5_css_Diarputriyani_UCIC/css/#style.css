@@ -1,0 +1,16 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+      color: coral;
+      text-align: justify;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 12pt;
+}
+body {
+      background-color: darkseagreen;
+      background-image: url('../img/images.jpeg');
+      background-size: cover;
+      background-repeat: no-repeat;
+}
+
